@@ -1916,10 +1916,9 @@
 
 | 参数名称 | 参数类型 | 是否必须 | 参数说明 |
 | -------- | -------- | -------- | -------- |
-| userName | String   | 是       | 姓名     |
-| email    | String   | 是       | 邮箱     |
-| contact  | String   | 是       | 联系方式 |
+| contact  | String   | 否       | 联系方式 |
 | content  | String   | 是       | 投诉内容 |
+| imgUrl   | String   | 否       | 图片     |
 
 **返回参数：**
 
